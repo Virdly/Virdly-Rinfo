@@ -14,4 +14,13 @@ OLED SSD1306 (I²C, 128x64)
 Переключатель (питания)
 
 # Схема
-<img width="699" height="534" alt="image" src="https://github.com/user-attachments/assets/819d422c-6079-49af-a92e-b90215eb65a4" />
+Кнопки
+UP d4
+DOWN d5
+LEFT d6
+RIGHT d7
+OK d10
+
+oled дисплей
+SCL d9
+SDA d8
