@@ -15,12 +15,19 @@ OLED SSD1306 (I²C, 128x64)
 
 # Схема
 Кнопки
+
 UP d4
+
 DOWN d5
+
 LEFT d6
+
 RIGHT d7
+
 OK d10
 
 oled дисплей
+
 SCL d9
+
 SDA d8
