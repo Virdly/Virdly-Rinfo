@@ -21,3 +21,10 @@
 <img width="128" height="128" alt="wifi" src="https://github.com/user-attachments/assets/0549951b-8c66-46de-af78-0d54f256048e" />
 
 
+интерфейс выглядит так:
+
+![IMG_20250911_204035](https://github.com/user-attachments/assets/b7566274-152d-448c-947e-e9daf837732a)
+
+
+
+
