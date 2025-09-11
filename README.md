@@ -1,36 +1,23 @@
 # Virdly-Rinfo
+Описание:
+это прошивка создана для ESP32-2432S028 CYD
+имеются функции чтения текстовых файлов и RGB битмапов читается и загружается на sd карту
+так же подключение к wifi и получение файлов через wifi
+очень удобный и понятный интерфейс
+упровление с помощю встроеного тач XPT2046
 
-Проект на Esp32 c3 mini с OLED-дисплеем и кнопками.
-Основная цель — [опиши в 1 предложение, что делает устройство: например, "создать простую информационную панель" или "реализовать меню с управлением через кнопки"].
-![IMG_20250905_200253 1](https://github.com/user-attachments/assets/7962baee-44e4-4534-b93a-b820c9a5dd80)
+понятные иконки:
 
-<img width="794" height="414" alt="image" src="https://github.com/user-attachments/assets/a91a67e4-994e-452e-82e0-f392d530411a" />
+иконка txt файла:
 
-## Компоненты
+<img width="88" height="116" alt="TXTF" src="https://github.com/user-attachments/assets/4583934c-25f0-41ee-9ac0-e7da55d5fb27" />
 
-Esp32 c3 mini
+иконка RGB битмапа:
 
-OLED SSD1306 (I²C, 128x64)
+<img width="88" height="116" alt="IMGF" src="https://github.com/user-attachments/assets/645683f9-f3ac-4662-9f40-2ccc5b18c9d2" />
 
-5 кнопок (управление меню)
+иконка wifi:
 
-Переключатель (питания)
+<img width="128" height="128" alt="wifi" src="https://github.com/user-attachments/assets/0549951b-8c66-46de-af78-0d54f256048e" />
 
-# Схема
-Кнопки
 
-UP d4
-
-DOWN d5
-
-LEFT d6
-
-RIGHT d7
-
-OK d10
-
-oled дисплей
-
-SCL d9
-
-SDA d8
