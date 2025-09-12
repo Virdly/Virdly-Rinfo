@@ -25,7 +25,7 @@
 
 ## 🖥 Интерфейс
 
-<img width="400" src="https://github.com/user-attachments/assets/b7566274-152d-448c-947e-e9daf837732a" />
+<img width="400" src="https://github.com/user-attachments/assets/780cf2d6-0254-4ba6-a539-65d0f24d57b2" />
 
 ---
 
