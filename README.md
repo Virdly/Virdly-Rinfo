@@ -23,9 +23,11 @@
 
 ---
 
-## 🖥 Интерфейс
+## 🖥 Интерфейс:
 
 <img width="400" src="https://github.com/user-attachments/assets/780cf2d6-0254-4ba6-a539-65d0f24d57b2" />
+
+<img width="400" src="https://github.com/user-attachments/assets/e1fd3ebc-d2cd-412d-be1e-8bd83003837e" />
 
 ---
 
